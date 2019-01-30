@@ -1,11 +1,12 @@
 ---
-title: 'Clustering Customers for Segmentation'
+title: "Clustering Customers for Segmentation"
 author: "Chase Baggett"
 output:
-  html_document: 
+  github_document: default
+  html_document:
     code_folding: hide
-    toc: true
-    toc_float: true
+    toc: yes
+    toc_float: yes
   pdf_document: default
 ---
 #Introduction
